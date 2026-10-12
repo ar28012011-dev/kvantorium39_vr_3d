@@ -1,0 +1,17 @@
+{
+  "id": "player",
+  "name": "Гость Кванториума",
+  "description": "Ученик, который путешествует по Кванториуму и проходит мини-уроки в кабинетах.",
+  "avatar": "characters/avatar.png",
+  "spawn": {
+    "scene": "main_entrance",
+    "yaw": 0,
+    "pitch": 0
+  },
+  "stats": {
+    "level": 1,
+    "experience": 0,
+    "completedLessons": []
+  },
+  "inventory": []
+}

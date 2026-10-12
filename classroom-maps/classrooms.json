@@ -1,0 +1,18 @@
+{
+  "cab_it1": {
+    "name": "IT-квантум",
+    "map": "classroom-maps/it-kvantum.png",
+    "lesson": {
+      "title": "Мини-урок: Введение в IT",
+      "steps": []
+    }
+  },
+  "cab_robok1": {
+    "name": "Робоквантум",
+    "map": "classroom-maps/robokvantum.png",
+    "lesson": {
+      "title": "Мини-урок: Робототехника",
+      "steps": []
+    }
+  }
+}
